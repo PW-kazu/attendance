@@ -9,9 +9,9 @@ use Illuminate\Http\Response;
 class AttendanceController extends Controller
 {
     public function getindex () {
-
+        
         return view('attendance');
-
+        
     }
 
     
