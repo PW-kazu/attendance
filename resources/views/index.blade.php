@@ -60,7 +60,9 @@
     <button>休憩終了</button>
   </div>
 </main>
-<footer></footer>
+<footer>
+  <p>Atte,inc</p>
+</footer>
   </div>
 </body>
 </html>
